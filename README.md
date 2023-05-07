@@ -10,7 +10,9 @@ I've been:
 * Malware analyst
 
 👯 I’m looking to collaborate to form a new organisation known as DeepCore which is to be based upon the principle of cybersecurity
+
 🔭 I’m currently working on A new piece of python malware
+
 📫 How to reach me:
       - via gmail: anstbatscats1234@gmail.com (yes that is literally it)
 <!--
