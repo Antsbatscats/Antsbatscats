@@ -1,7 +1,8 @@
 ### Hi there 👋 Im Antsbatscats - Nice to Meet you!
 
 I'm just a kid who loves cybersecurity.
-i've been in cybersecurity for three years!
+
+I've been in cybersecurity for three years!
 
 I've been:
 * Social Engineer
