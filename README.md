@@ -2,12 +2,11 @@
 
 I'm just a kid who loves cybersecurity.
 
-I've been in cybersecurity for three years!
+I've been in cybersecurity for 4 years!
 
 I've been:
 * Social Engineer
 * Web api pentester
-* Malware Dev
 * Malware analyst
 
 👯 I’m looking to collaborate to form a new organisation known as DeepCore which is to be based upon the principle of cybersecurity
